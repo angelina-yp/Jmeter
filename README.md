@@ -1,4 +1,4 @@
-# Jmeter  [Test plan](https://github.com/angelina-yp/Jmeter/blob/main/Test%20Plan.jmx)
+# Jmeter  [answer](https://github.com/angelina-yp/Jmeter/blob/main/Test%20Plan.jmx)
 
 Сделать сценарий с перечисленными эндпоинтами http://5.75.203.123:5005
 

@@ -1,4 +1,6 @@
-# Jmeter
+# Jmeter  ![Test plan](https://github.com/angelina-yp/Jmeter/blob/main/Test%20Plan.jmx)
+
+![photo_2023-03-13_21-39-32](https://user-images.githubusercontent.com/104057573/224798776-1f679f0c-833e-410d-8c6d-5b0c81f30aba.jpg)
 
 Сделать сценарий с перечисленными эндпоинтами http://5.75.203.123:5005
 
